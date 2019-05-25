@@ -5,7 +5,7 @@ import SectionHeader from "./section-header"
 import { COLORS } from "../styles/constants"
 
 const Content = () => (
-  <div style={{marginTop:"250px", padding: "4rem 1rem", textAlign: "center" }}>
+  <div style={{marginTop:"-150px", padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
       title="Who We Are"
       description="CodeEveryday's 2020 Vision is based on the statistic that there will be 1.4 million computer-science related jobs available with only 400,000 computer science graduates to fill those roles. With the rise of online learning platforms and coding bootcamps to help individuals find alternative ways to learn how to code, CodeEveryday is the best asset to help you establish your career.
@@ -19,7 +19,7 @@ const Content = () => (
         gridTemplateColumns: "repeat(auto-fit, minmax(240px, 340px))",
       }}
     >
-      <div>
+      <div style={{ marginTop:"100px"}}>
         <h3>What We Offer</h3>
         <p style={{ color: COLORS.gray }}> Explore the latest features</p>
         <h4>Mentorship</h4>
