@@ -22,6 +22,7 @@ const particleOpt = {
   }
 }
 
+
 const particlesStyles = css`
   position: absolute;
   top: 0;

@@ -28,12 +28,12 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>CodeEveryday</h1>
     <p style={{ textAlign: "center", maxWidth: 440 }}>
-      Find resources. Gain mentors. Prepare for interviews. Be prepared to enter the tech force.
+      Start your adventure in tech! Gain access to resources, mentors, and interview prep to enter the tech work!
     </p>
     <Button>Get Early Access</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
       <div style={{ clipPath: "inset(2% 5% round 2% 5%)" }}>
-        <MockupContent />
+        <MockupContent/>
       </div>
       <div
         style={{
