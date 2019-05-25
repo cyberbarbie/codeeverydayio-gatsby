@@ -28,7 +28,7 @@ const Header = ({ siteTitle }) => (
     />
     <h1 style={{ textAlign: "center" }}>CodeEveryday</h1>
     <p style={{ textAlign: "center", maxWidth: 440 }}>
-      Find resources. Gain mentors. Prepare for nterviews. Be prepared to enter the tech force.
+      Find resources. Gain mentors. Prepare for interviews. Be prepared to enter the tech force.
     </p>
     <Button>Get Early Access</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>
