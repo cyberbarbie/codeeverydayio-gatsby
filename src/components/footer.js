@@ -7,7 +7,7 @@ const Footer = ({ siteTitle }) => (
   <footer
     style={{
       padding: "1rem",
-      backgroundColor: COLORS.lightGray,
+      backgroundColor: COLORS.black,
     }}
   >
     <div
@@ -22,10 +22,10 @@ const Footer = ({ siteTitle }) => (
     >
       <div style={{ color: COLORS.blue, fontWeight: 700 }}>
         <a
-          style={{ textDecoration: "none" }}
-          href="https://github.com/gillkyle/gatsby-starter-landing-page"
+          style={{ textDecoration: "none", color: "rgb(251, 253, 255)" }}
+          href="https://twitter.com/codeeverydayio"
         >
-          Contact Us
+          Follow us on Twitter!
         </a>
       </div>
       <div style={{ color: COLORS.gray }}>

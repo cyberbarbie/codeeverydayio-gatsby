@@ -7,9 +7,9 @@ const CallToAction = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
       title="Join the Movement"
-      description="Stay up to date on upcoming releases"
     />
-    <Button>Get Early Access</Button>
+    <p>Join our mailing list to stay up to date on our launch and free resources!</p>
+    <Button target="_blank" onclick="window.location.href = 'http://eepurl.com/gmB1zr';">Sign Up!</Button>
   </div>
 )
 

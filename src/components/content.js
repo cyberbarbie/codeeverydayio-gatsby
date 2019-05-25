@@ -8,7 +8,7 @@ const Content = () => (
   <div style={{marginTop:"-150px", padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
       title="Who We Are"
-      description="CodeEveryday's 2020 Vision is based on the statistic that there will be 1.4 million computer-science related jobs available with only 400,000 computer science graduates to fill those roles. With the rise of online learning platforms and coding bootcamps to help individuals find alternative ways to learn how to code, CodeEveryday is the best asset to help you establish your career.
+      description="The concept was created after I shared my story of how I learned how to code and transitioned into tech. Every day, I was always asked to provide resources, mentorship and career-building advice. Now my goal is to open doors and create opportunities for developers coming from non-traditional and underrepresented backgrounds.  CodeEveryday's 2020 Vision is based on the statistic that there will be 1.4 million computer-science related jobs available with only 400,000 computer science graduates to fill those roles. With the rise of online learning platforms and coding bootcamps to help individuals find alternative ways to learn how to code, CodeEveryday is the best asset to help you establish your career.
       "
     />
     <content
@@ -28,7 +28,7 @@ const Content = () => (
         </p>
         <h4>Interview Prep</h4>
         <p style={{ color: COLORS.gray }}>
-        One of the most difficult parts of one's coding journey is the interview process. Gain access to mock interview sessions.
+        The breakdown of most interview processes for an engineering role include questions that address technical, design and behavioral issues. Whiteboarding sessions can be one of the most stressful and anxiety-inducing points of a coder's journey as they embark on interviews. So, we will provide thorough mock interviews tailored to the kinds of job you will apply for!
         </p>
         <h4>Online Workshops</h4>
         <p style={{ color: COLORS.gray }}>
