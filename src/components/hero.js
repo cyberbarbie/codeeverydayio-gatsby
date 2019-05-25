@@ -26,10 +26,9 @@ const Header = ({ siteTitle }) => (
         opacity: 0.5,
       }}
     />
-    <h1 style={{ textAlign: "center" }}>Landing Page Starter</h1>
+    <h1 style={{ textAlign: "center" }}>CodeEveryday</h1>
     <p style={{ textAlign: "center", maxWidth: 440 }}>
-      This landing page looks great on all devices and is minimal in design. Add
-      what you want and deploy.
+      Find resources. Gain mentors. Prepare for nterviews. Be prepared to enter the tech force.
     </p>
     <Button>Get Early Access</Button>
     <div style={{ margin: 60, width: `250px`, position: "relative" }}>

@@ -7,8 +7,8 @@ import { COLORS } from "../styles/constants"
 const Content = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
-      title="Minimal Features"
-      description="Don't spend time ripping out unneeded plugins and bloat."
+      title="What is CodeEveryday?"
+      description="CodeEveryday is an online platform dedicated to helping developers from non-traditional and underrepresented backgrounds prepare to enter the tech workforce by providing them access to interview prep, mentorship and resources to further their learning. Founded by Tae;lur Alexis."
     />
     <content
       style={{
